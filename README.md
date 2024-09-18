@@ -27,10 +27,10 @@ java Main
 * Command line/terminal for running the programs
 ### Project Structure
 Each project follows a simple structure:
-src/
-├── Main.java # Entry point for the application
-├── utils/ # Helper classes (if any)
-└── data/ # Input/output files (if applicable)
+* src/
+* ├── Main.java # Entry point for the application
+* ├── utils/ # Helper classes (if any)
+* └── data/ # Input/output files (if applicable)
 ### How to Use
 Each project comes with its instructions. For example, follow the steps mentioned under the "Getting Started" section to run the project. 
 Input and output formats are described in the individual project directories.
