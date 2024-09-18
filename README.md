@@ -9,45 +9,34 @@ Project List
    Technologies Used:
    Java (JDK 8 or higher)
    Features:
-   Real Time board update
-   Asks For every Move
+   Real-Time board update
+   Asks For Every Move
    Interactive UI
 
-bash
-Copy code
-git clone https://github.com/yourusername/java-cli-projects.git
+`git clone https://github.com/yourusername/java-cli-projects.git`
 Navigate to the desired project directory:
-
-bash
-Copy code
 cd ProjectFolder
 Compile the Java files:
 
-bash
-Copy code
-javac Main.java
+javac TicTacToe.java
 Run the project:
-
-bash
-Copy code
 java Main
-Prerequisites
-Java Development Kit (JDK) (version 8 or higher)
-Command line/terminal for running the programs
-Project Structure
-Each project follows a simple structure:
 
-bash
-Copy code
+### Prerequisites
+* Java Development Kit (JDK) (version 8 or higher)
+* Command line/terminal for running the programs
+### Project Structure
+Each project follows a simple structure:
 src/
 ├── Main.java # Entry point for the application
 ├── utils/ # Helper classes (if any)
 └── data/ # Input/output files (if applicable)
-How to Use
-Each project comes with its own instructions. For example, to run the project, follow the steps mentioned under the "Getting Started" section. Input and output formats are described in the individual project directories.
+### How to Use
+Each project comes with its instructions. For example, follow the steps mentioned under the "Getting Started" section to run the project. 
+Input and output formats are described in the individual project directories.
 
-Contributions
+### Contributions
 Feel free to fork this repository, suggest new features, or use these projects for learning. Contributions are welcome!
 
-Contact
-For any questions, suggestions, or collaboration opportunities, feel free to contact me at [your email].
+### Contact
+For any questions, suggestions, or collaboration opportunities, feel free to contact me at dev.walkersingh@gmail.com.
