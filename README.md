@@ -4,7 +4,7 @@ Welcome to my Core Java CLI Projects repository! This collection contains variou
 
 Project List
 
-1. [TicTakToe]
+1. TicTakToe
    Description: A small CLI game
    Technologies Used:
    Java (JDK 8 or higher)
@@ -14,9 +14,9 @@ Project List
    Interactive UI
 
 `git clone https://github.com/yourusername/java-cli-projects.git`
-Navigate to the desired project directory:
-cd ProjectFolder
-Compile the Java files:
+* Navigate to the desired project directory:
+* cd ProjectFolder
+* Compile the Java files:
 
 javac TicTacToe.java
 Run the project:
