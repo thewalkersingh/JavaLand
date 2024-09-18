@@ -4,31 +4,14 @@ Welcome to my Core Java CLI Projects repository! This collection contains variou
 
 Project List
 
-1. [Project Name 1]
-   Description: A brief overview of the project, including its purpose and functionality.
+1. [TicTakToe]
+   Description: A small CLI game
    Technologies Used:
    Java (JDK 8 or higher)
-   File handling or database (if applicable)
    Features:
-   Feature 1 (e.g., Input/Output operations)
-   Feature 2 (e.g., Exception handling)
-   Feature 3
-2. [Project Name 2]
-   Description: Brief description of the project and its core functionality.
-   Technologies Used:
-   Java
-   Collections Framework
-   File I/O (if applicable)
-   Key Highlights:
-   Highlight 1 (e.g., Use of multithreading or concurrency)
-   Highlight 2
-3. [Project Name 3]
-   Description: Overview of the project, its functionality, and use case.
-   Technologies Used:
-   Java
-   External Libraries (e.g., Apache Commons, if used)
-   Getting Started
-   Clone this repository:
+   Real Time board update
+   Asks For every Move
+   Interactive UI
 
 bash
 Copy code
