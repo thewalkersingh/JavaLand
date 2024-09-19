@@ -12,6 +12,15 @@ Project List
    Real-Time board update
    Asks For Every Move
    Interactive UI
+   
+1. BookMyShow LLD
+   Description: A Low Level Design for application used in BookMyShow
+   Technologies Used:
+   Java (JDK 8 or higher)
+   Features:
+   Time Fetching, Seats available and Sound Quality
+   Booking done, theaters location and Payment system
+   Interactive UI
 
 `git clone https://github.com/yourusername/java-cli-projects.git`
 * Navigate to the desired project directory:
